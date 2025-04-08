@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy - Kobra Labs</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9fafb;
+      padding: 40px;
+      max-width: 800px;
+      margin: auto;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      color: #333;
+    }
+    h1 {
+      color: #111827;
+    }
+    h2 {
+      margin-top: 30px;
+      color: #1f2937;
+    }
+    p {
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Effective Date: April 8, 2025</p>
+
+  <p>Kobra Labs ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our services.</p>
+
+  <h2>1. Information We Collect</h2>
+  <p>We may collect personal information such as your name, email address, phone number, and any message you send to us via WhatsApp or our website.</p>
+
+  <h2>2. How We Use Your Information</h2>
+  <p>We use your information to:
+    <ul>
+      <li>Provide and manage our services</li>
+      <li>Communicate with you (including WhatsApp messages)</li>
+      <li>Improve user experience</li>
+    </ul>
+  </p>
+
+  <h2>3. Data Sharing</h2>
+  <p>We do not sell or rent your data. We may share your data with service providers (like Meta for WhatsApp API) strictly for service delivery.</p>
+
+  <h2>4. Data Security</h2>
+  <p>We use industry-standard security to protect your information from unauthorized access or disclosure.</p>
+
+  <h2>5. Data Deletion</h2>
+  <p>You may request deletion of your data by contacting us at <strong>sales@kobralabs.com</strong>.</p>
+
+  <h2>6. Contact Us</h2>
+  <p>If you have any questions about this Privacy Policy, contact us at:</p>
+  <p><strong>sales@kobralabs.com</strong></p>
+</body>
+</html>
